@@ -19,7 +19,6 @@ public class CircuitBuilder {
     public Composant construireCircuit(String cheminFichier){
 
         ObjectMapper mapper = new ObjectMapper();
-        Composant circuit = null;
 
         cheminFichier = pathIn + cheminFichier;
         try {

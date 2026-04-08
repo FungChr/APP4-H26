@@ -1,6 +1,5 @@
 package electronique;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public abstract class Circuit extends Composant {
